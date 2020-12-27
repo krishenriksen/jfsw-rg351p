@@ -1,8 +1,9 @@
 ## How to build
-
+```
   export CXXFLAGS="$CXXFLAGS -fPIC"
   export CFLAGS="$CFLAGS -fPIC"
   make -j6
+```
 
 JonoF's Shadow Warrior Port
 ===========================
